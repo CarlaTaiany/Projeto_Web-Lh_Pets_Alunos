@@ -17,6 +17,6 @@ Esta atividade foi realizada como parte do **curso FullStack do Senai**, focando
 
 Confira abaixo um print da nossa página web em funcionamento:
 
-![Print da Página Web](Atividade 2\imagem\print.png)
+![Print da Página Web](imagem/print.png)
 
 ---
